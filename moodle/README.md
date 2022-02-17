@@ -1,4 +1,4 @@
-#### - 최종 갱신 : Ver 21.05.08   
+#### - 最后更新: Ver 21.05.08   
    
 ***   
    
@@ -12,7 +12,7 @@
 ***   
 #
 ## MOODLE_310_STABLE   
-#### - MOODLE_310_STABLE, nginx + mysql + php 환경으로 설치   
+#### - MOODLE_310_STABLE, nginx + mysql + php 安装环境
 #如果你用Ubuntu终端命令运行以下命令，它将安装moodle系统。
 # 详细流程正在准备中 
 
