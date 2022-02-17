@@ -3,18 +3,18 @@
 ***   
    
 ## Prerequisite   
-#### - 설치 전 필요 조건   
-#Ubuntu 20.04 LTS 운영체제가 AWS 에 먼저 설치되어 있어야 합니다.   
-#PC + 사설네트워크(학내망, 가정 등) 환경에서는 연습만 추천합니다.    
+安装前要求
+#Ubuntu 20.04 LTS 操作系统必须先安装在 AWS 上。
+#只建议在PC+专网（奖学金网、家庭等）环境下练习。
 
-#Ubuntu 20.04 LTS Server english 환경으로 설치해서 그대로 사용!   
+#Ubuntu 20.04 安装在 LTS Server 英文环境中并按原样使用！ 
    
 ***   
 #
 ## MOODLE_310_STABLE   
 #### - MOODLE_310_STABLE, nginx + mysql + php 환경으로 설치   
-#아래 명령을 우분투 터미널 명령으로 실행하면, moodle 시스템을 설치합니다.  
-#상세 프로세스는 준비중      
+#如果你用Ubuntu终端命令运行以下命令，它将安装moodle系统。
+# 详细流程正在准备中 
 
 <pre>
 wget https://raw.githubusercontent.com/melongist/CSL/master/moodle/moodle210508.sh
